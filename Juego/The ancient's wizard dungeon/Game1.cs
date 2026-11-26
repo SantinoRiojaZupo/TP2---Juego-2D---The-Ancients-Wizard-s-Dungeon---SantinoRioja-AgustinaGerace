@@ -307,16 +307,6 @@ public class Game1 : Core
         rectanguloHeroe2 = new Rectangle(180, 100, principe2frente.Width, principe2frente.Height);
 
 
-        _enemigos.AgregarErizo(
-    _regionErizoFrente,
-    new Vector2(600, 200)
-);
-        _enemigos.AgregarRana(
-            _regionRanaFrente,
-            _animacionRanaSalto,
-            _animacionRanaAterriza,
-            _posicionRana
-        );
 
         _cuerpoHeroe1 = new CollisionBody(
            new Point(20 * 3, 25 * 3),
@@ -417,6 +407,24 @@ public class Game1 : Core
                     _jugador2._vidaJugadores.vidaActual = _jugador2._vidaJugadores.vidasTotal;
                     _jugador1.estaVivo = true;
                     _jugador2.estaVivo = true;
+                    tiempoTranscurrido = 0f;
+
+                    mostrarEnemigo = false;
+
+                    _cuerpoHeroe1.SetPosition(_posicionHeroe1);
+                    _cuerpoHeroe2.SetPosition(_posicionHeroe2);
+
+                    _enemigos.PrepararOleada(
+                        _oleadas.OleadaActual,
+                        _regionErizoFrente,
+                        _regionRanaFrente,
+                        _animacionRanaSalto,
+                        _animacionRanaAterriza,
+                        limitesMapa,
+                        _jugador1,
+                        _jugador2,
+                        _numeroJugadores
+                    );
                 }
 
                 break;
@@ -800,6 +808,18 @@ public class Game1 : Core
                     _estadoActual = EstadoJuego.Derrota;
                 }
 
+                //REAPARECEMOS ENEMIGOS SI NO PUDIERON APARECER
+                _enemigos.IntentarAparicionesPendientes(
+                    gameTime,
+                    _regionErizoFrente,
+                    _regionRanaFrente,
+                    _animacionRanaSalto,
+                    _animacionRanaAterriza,
+                    limitesMapa,
+                    _jugador1,
+                    _jugador2,
+                    _numeroJugadores
+                );
 
                 if (!ranaViva && cantidadRanas > 0)
                 {
@@ -817,9 +837,9 @@ public class Game1 : Core
                 }
 
                 if (_oleadas.PartidaGanada)
-{
-    _estadoActual = EstadoJuego.Victoria;
-}
+                {
+                    _estadoActual = EstadoJuego.Victoria;
+                }
 
                 break;
 

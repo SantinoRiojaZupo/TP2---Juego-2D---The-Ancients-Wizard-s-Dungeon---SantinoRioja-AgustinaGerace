@@ -89,7 +89,8 @@ namespace The_ancient_s_wizard_dungeon
     Jugador jugador2,
     int numeroJugadores,
     Rectangle limitesMapa,
-    IReadOnlyList<Rana> ranas)
+    IReadOnlyList<Rana> ranas,
+     IReadOnlyList<Erizo> erizos)
         {
             if (!EstaVivo)
                 return;
@@ -117,6 +118,13 @@ namespace The_ancient_s_wizard_dungeon
                 if (rana.EstaViva)
                 {
                     cuerposBloqueo.Add(rana.Cuerpo);
+                }
+            }
+            foreach (Erizo erizo in erizos)
+            {
+                if (erizo != this && erizo.EstaVivo)
+                {
+                    cuerposBloqueo.Add(erizo.Cuerpo);
                 }
             }
 

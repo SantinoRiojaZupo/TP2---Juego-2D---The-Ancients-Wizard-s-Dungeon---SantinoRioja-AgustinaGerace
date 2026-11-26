@@ -27,6 +27,11 @@ namespace The_ancient_s_wizard_dungeon
 
         public bool TodosLosEnemigosDerrotados(Enemigos enemigos)
         {
+            if (enemigos.TieneEnemigosPendientes())
+            {
+    return false;
+                
+            }
             foreach (Erizo erizo in enemigos.Erizos)
             {
                 if (erizo.EstaVivo)
