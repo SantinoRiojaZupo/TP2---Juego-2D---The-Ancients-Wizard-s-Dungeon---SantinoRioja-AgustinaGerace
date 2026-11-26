@@ -1,0 +1,80 @@
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.deps.json
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.pdb
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.AssemblyReference.cache
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.GeneratedMSBuildEditorConfig.editorconfig
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfoInputs.cache
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfo.cs
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.CoreCompileInputs.cache
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.sourcelink.json
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\refint\MonoGame Library.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.pdb
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\ref\MonoGame Library.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.deps.json
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.pdb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.sourcelink.json
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\refint\MonoGame Library.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.pdb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\ref\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.deps.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.pdb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfoInputs.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfo.cs
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.sourcelink.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\refint\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.pdb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\ref\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame.C232B5C3.Up2Date
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.deps.json
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.pdb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfoInputs.cache
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfo.cs
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.sourcelink.json
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\refint\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.pdb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\MonoGame Library\obj\Debug\net9.0\ref\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.deps.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.pdb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfoInputs.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfo.cs
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.sourcelink.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\refint\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.pdb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\ref\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame.C232B5C3.Up2Date
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.deps.json
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\bin\Debug\net9.0\MonoGame Library.pdb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.AssemblyReference.cache
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfoInputs.cache
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.AssemblyInfo.cs
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.sourcelink.json
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\refint\MonoGame Library.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\MonoGame Library.pdb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\MonoGame Library\obj\Debug\net9.0\ref\MonoGame Library.dll

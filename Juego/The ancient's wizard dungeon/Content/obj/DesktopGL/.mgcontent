@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/MagoAntiguo.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

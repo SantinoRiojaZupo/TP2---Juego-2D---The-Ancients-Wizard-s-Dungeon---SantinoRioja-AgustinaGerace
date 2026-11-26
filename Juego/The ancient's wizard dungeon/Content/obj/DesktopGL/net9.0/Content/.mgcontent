@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/Audio/MusicaFondo.mp3</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/botones.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/ElementosSpriteSheet.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/ErizoSpriteSheet.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/esqueletoSpriteSheet.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/Fonts/Fuente.spritefont</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/heroe1.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/heroe2.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/images/atlas-definition.xml</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/MagoAntiguo.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/MusicaFondo.mp3</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/PantallaInicial.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/principe1_spritesheet.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/principe2_spritesheet.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/ranaSpriteSheet.png</File>
+    <File>C:/xampp/htdocs/TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace/Juego/The ancient's wizard dungeon/Content/TileSet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

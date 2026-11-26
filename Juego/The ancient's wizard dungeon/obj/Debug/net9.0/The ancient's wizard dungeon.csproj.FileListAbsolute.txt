@@ -1,0 +1,371 @@
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.exe
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.deps.json
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.runtimeconfig.json
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.pdb
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame.Framework.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\NVorbis.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.pdb
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\mgcb.tool.restore
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.AssemblyReference.cache
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.GeneratedMSBuildEditorConfig.editorconfig
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfoInputs.cache
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfo.cs
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.CoreCompileInputs.cache
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.sourcelink.json
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The anci.13A5A028.Up2Date
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\refint\The ancient's wizard dungeon.dll
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.pdb
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.genruntimeconfig.cache
+c:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\ref\The ancient's wizard dungeon.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\MagoAntiguo.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Pantalla Inicial.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\PantallaInicial.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Pantalla Inicial.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\MagoAntiguo.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\PantallaInicial.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.deps.json
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.runtimeconfig.json
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.pdb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\NVorbis.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.pdb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\mgcb.tool.restore
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.sourcelink.json
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The anci.13A5A028.Up2Date
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\refint\The ancient's wizard dungeon.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.pdb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\ref\The ancient's wizard dungeon.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ErizoSpriteSheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\TileSet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Levels\Level1.xml
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe1.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe2.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\botones.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Pantalla Inicial.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Levels\Level1.xml
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\botones.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ErizoSpriteSheet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe1.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe2.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\MagoAntiguo.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\PantallaInicial.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\TileSet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.deps.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.runtimeconfig.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.pdb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\NVorbis.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.pdb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\mgcb.tool.restore
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfoInputs.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfo.cs
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.sourcelink.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The anci.13A5A028.Up2Date
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\refint\The ancient's wizard dungeon.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.pdb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.genruntimeconfig.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\ref\The ancient's wizard dungeon.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.runtimeconfig.dev.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe1_spritesheet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe2_spritesheet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\atlas-definition.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\juego\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\images\atlas-definition.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\atlas-definition.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\images\atlas-definition.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe1_spritesheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe2_spritesheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ElementosSpriteSheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\esqueletoSpriteSheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ranaSpriteSheet.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\atlas-definition.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Levels\Level1.xml
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\botones.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ElementosSpriteSheet.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ErizoSpriteSheet.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\esqueletoSpriteSheet.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe1.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe2.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\images\atlas-definition.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe1_spritesheet.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe2_spritesheet.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ranaSpriteSheet.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\TileSet.xnb
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\BrotliSharpLib.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\GumCommon.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\FlatRedBall.InterpolationCore.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGameGum.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\Alumno\source\repos\SantinoRioja\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\TextCopy.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\atlas-definition.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Pantalla Inicial.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Levels\Level1.xml
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\botones.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ElementosSpriteSheet.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ErizoSpriteSheet.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\esqueletoSpriteSheet.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe1.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe2.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\images\atlas-definition.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\MagoAntiguo.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\PantallaInicial.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe1_spritesheet.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe2_spritesheet.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ranaSpriteSheet.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\TileSet.xnb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.deps.json
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.runtimeconfig.json
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.pdb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\BrotliSharpLib.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\GumCommon.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\FlatRedBall.InterpolationCore.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGameGum.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\NVorbis.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\TextCopy.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.pdb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\mgcb.tool.restore
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfoInputs.cache
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfo.cs
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.sourcelink.json
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The anci.13A5A028.Up2Date
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\refint\The ancient's wizard dungeon.dll
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.pdb
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.genruntimeconfig.cache
+C:\Users\alumno.ET26\Documents\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\ref\The ancient's wizard dungeon.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\BrotliSharpLib.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\CsvHelper.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\GumCommon.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\FlatRedBall.InterpolationCore.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGameGum.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\SharpCompress.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\TextCopy.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\mgcb.tool.restore
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\refint\The ancient's wizard dungeon.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.pdb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\atlas-definition.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\botones.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ElementosSpriteSheet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ErizoSpriteSheet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\esqueletoSpriteSheet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe1.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe2.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\images\atlas-definition.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\MagoAntiguo.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Pantalla Inicial.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\PantallaInicial.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe1_spritesheet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe2_spritesheet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ranaSpriteSheet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\TileSet.xnb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Levels\Level1.xml
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.deps.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.runtimeconfig.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.runtimeconfig.dev.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.pdb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\BrotliSharpLib.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\GumCommon.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\FlatRedBall.InterpolationCore.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGameGum.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\NVorbis.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\TextCopy.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.dll
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.pdb
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfoInputs.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfo.cs
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.sourcelink.json
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The anci.13A5A028.Up2Date
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.genruntimeconfig.cache
+C:\Users\alumno.ET26\Documents\Agustina Gerace\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\ref\The ancient's wizard dungeon.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\atlas-definition.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Pantalla Inicial.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Levels\Level1.xml
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\botones.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ElementosSpriteSheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ErizoSpriteSheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\esqueletoSpriteSheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe1.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\heroe2.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\images\atlas-definition.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\MagoAntiguo.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\PantallaInicial.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe1_spritesheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\principe2_spritesheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\ranaSpriteSheet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\TileSet.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.exe
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.deps.json
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.runtimeconfig.json
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\The ancient's wizard dungeon.pdb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\BrotliSharpLib.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\CsvHelper.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\GumCommon.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\FlatRedBall.InterpolationCore.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGameGum.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\NVorbis.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\SharpCompress.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\TextCopy.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\MonoGame Library.pdb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\mgcb.tool.restore
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.AssemblyReference.cache
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfoInputs.cache
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.AssemblyInfo.cs
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.sourcelink.json
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The anci.13A5A028.Up2Date
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\refint\The ancient's wizard dungeon.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.pdb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\The ancient's wizard dungeon.genruntimeconfig.cache
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\obj\Debug\net9.0\ref\The ancient's wizard dungeon.dll
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Fonts\Fuente.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Fonts\Fuente.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\MusicaFondo.ogg
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\MusicaFondo.xnb
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Audio\MusicaFondo.ogg
+C:\xampp\htdocs\TP2---Juego-2D---The-Ancients-Wizard-s-Dungeon---SantinoRioja-AgustinaGerace\Juego\The ancient's wizard dungeon\bin\Debug\net9.0\Content\Audio\MusicaFondo.xnb
