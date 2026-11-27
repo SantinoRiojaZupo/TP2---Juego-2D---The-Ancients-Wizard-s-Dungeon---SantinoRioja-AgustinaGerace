@@ -205,11 +205,42 @@ namespace The_ancient_s_wizard_dungeon
                             break;
                         }
                     }
+                    bool chocaRana = false;
+
+                    foreach (Rana otraRana in ranas)
+                    {
+                        if (otraRana == this || !otraRana.EstaViva)
+                            continue;
+
+                        Rectangle boundsOtraRana;
+
+                        if (otraRana.Saltando)
+                        {
+                            // Reservamos el lugar al que se dirige.
+                            boundsOtraRana = new Rectangle(
+                                (int)otraRana.Destino.X,
+                                (int)otraRana.Destino.Y,
+                                otraRana.Cuerpo.Bounds.Width,
+                                otraRana.Cuerpo.Bounds.Height
+                            );
+                        }
+                        else
+                        {
+                            boundsOtraRana = otraRana.Cuerpo.Bounds;
+                        }
+
+                        if (posibleBounds.Intersects(boundsOtraRana))
+                        {
+                            chocaRana = true;
+                            break;
+                        }
+                    }
 
                     if (limitesMapa.Contains(posibleBounds) &&
                         !chocaHeroe1 &&
                         !chocaHeroe2 &&
                         !chocaErizo &&
+                        !chocaRana &&
                         distancia < mejorDistancia)
                     {
                         mejorPosicion = posiblePosicion;
@@ -243,9 +274,33 @@ namespace The_ancient_s_wizard_dungeon
                 if (TiempoAnimacion >= DuracionSalto)
                 {
                     // termina el salto
-                    Posicion = Destino;
-                    Cuerpo.SetPosition(Posicion);
-                    Saltando = false;
+                    if (PosicionLibre(
+       Destino,
+       jugador1,
+       jugador2,
+       numeroJugadores,
+       erizos,
+       ranas,
+       limitesMapa))
+                    {
+                        Posicion = Destino;
+                        Cuerpo.SetPosition(Posicion);
+                        Saltando = false;
+                    }
+                    else
+                    {
+                        // El destino quedó ocupado durante el salto.
+                        Saltando = false;
+
+                        Reubicar(
+                            jugador1,
+                            jugador2,
+                            numeroJugadores,
+                            erizos,
+                            ranas,
+                            limitesMapa
+                        );
+                    }
 
                     bool recibioDaño = false;
 
@@ -276,6 +331,43 @@ namespace The_ancient_s_wizard_dungeon
                     TiempoMovimiento = -2.2f;
                 }
             }
+        }
+        private bool PosicionLibre(
+    Vector2 posicion,
+    Jugador jugador1,
+    Jugador jugador2,
+    int numeroJugadores,
+    IReadOnlyList<Erizo> erizos,
+    IReadOnlyList<Rana> ranas,
+    Rectangle limitesMapa)
+        {
+            Rectangle posiblesBounds = new Rectangle(
+                (int)posicion.X,
+                (int)posicion.Y,
+                Cuerpo.Bounds.Width,
+                Cuerpo.Bounds.Height
+            );
+
+            if (!limitesMapa.Contains(posiblesBounds))
+                return false;
+
+           
+            foreach (Erizo erizo in erizos)
+            {
+                if (erizo.EstaVivo &&
+                    posiblesBounds.Intersects(erizo.Cuerpo.Bounds))
+                    return false;
+            }
+
+            foreach (Rana otraRana in ranas)
+            {
+                if (otraRana != this &&
+                    otraRana.EstaViva &&
+                    posiblesBounds.Intersects(otraRana.Cuerpo.Bounds))
+                    return false;
+            }
+
+            return true;
         }
         public bool ComprobarContacto(Jugador jugador)
         {

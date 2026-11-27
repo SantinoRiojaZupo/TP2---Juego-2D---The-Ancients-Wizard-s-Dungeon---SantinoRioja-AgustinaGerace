@@ -115,7 +115,7 @@ namespace The_ancient_s_wizard_dungeon
 
             foreach (Rana rana in ranas)
             {
-                if (rana.EstaViva)
+                if (rana.EstaViva && !rana.Saltando)
                 {
                     cuerposBloqueo.Add(rana.Cuerpo);
                 }
@@ -210,7 +210,7 @@ Cuerpo.Bounds.Height
 
             foreach (Rana rana in ranas)
             {
-                if (rana.EstaViva && proximoBounds.Intersects(rana.Cuerpo.Bounds))
+                if (rana.EstaViva && !rana.Saltando && proximoBounds.Intersects(rana.Cuerpo.Bounds))
                 {
                     chocoRana = true;
                     break;
@@ -293,7 +293,7 @@ Cuerpo.Bounds.Height
 
                     foreach (Rana rana in ranas)
                     {
-                        if (rana.EstaViva && posibleBounds.Intersects(rana.Cuerpo.Bounds))
+                        if (rana.EstaViva && !rana.Saltando && posibleBounds.Intersects(rana.Cuerpo.Bounds))
                         {
                             libre = false;
                             break;

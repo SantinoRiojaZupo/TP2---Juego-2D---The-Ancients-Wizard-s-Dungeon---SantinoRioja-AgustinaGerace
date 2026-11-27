@@ -42,6 +42,7 @@ public class Game1 : Core
     private Texture2D _ranaSpriteSheetTexture;
     private Texture2D _esqueletoSpriteSheetTexture;
     private Texture2D _texturaElementos;
+    private Texture2D _texturaBarra;
 
     //regiones
     private TextureRegion _regionErizoFrente;
@@ -155,6 +156,10 @@ public class Game1 : Core
         // TODO: use this.Content to load your game content here
 
         base.LoadContent();
+
+        //Barra progreso
+        _texturaBarra = new Texture2D(((Game)this).GraphicsDevice, 1, 1);
+        _texturaBarra.SetData(new[] { Color.White });
         //musica
         _musicaFondo = Content.Load<Song>("Audio/MusicaFondo");
 
@@ -820,6 +825,7 @@ public class Game1 : Core
                     _jugador2,
                     _numeroJugadores
                 );
+                _enemigos.ActualizarProgreso();
 
                 if (!ranaViva && cantidadRanas > 0)
                 {
@@ -834,11 +840,26 @@ public class Game1 : Core
                 if (_oleadas.TodosLosEnemigosDerrotados(_enemigos))
                 {
                     _oleadas.CompletarOleada();
-                }
+                    _oleadas.AvanzarOleada();
 
-                if (_oleadas.PartidaGanada)
-                {
-                    _estadoActual = EstadoJuego.Victoria;
+                    if (_oleadas.PartidaGanada)
+                    {
+                        _estadoActual = EstadoJuego.Victoria;
+                    }
+                    else
+                    {
+                        _enemigos.PrepararOleada(
+                            _oleadas.OleadaActual,
+                            _regionErizoFrente,
+                            _regionRanaFrente,
+                            _animacionRanaSalto,
+                            _animacionRanaAterriza,
+                            limitesMapa,
+                            _jugador1,
+                            _jugador2,
+                            _numeroJugadores
+                        );
+                    }
                 }
 
                 break;
@@ -1082,7 +1103,36 @@ public class Game1 : Core
 
             }
 
+            string textoOleada = $"OLEADA {_oleadas.OleadaActual} / 5";
 
+            Vector2 posicionTexto = new Vector2(300, 2);
+
+            SpriteBatch.DrawString(
+                _fuente,
+                textoOleada,
+                posicionTexto,
+                Color.White
+            );
+
+            // Barra de de la oleada
+            Rectangle fondoBarra = new Rectangle(300, 25, 200, 12);
+
+            SpriteBatch.Draw(
+                _texturaBarra,
+                fondoBarra,
+                Color.DarkGray
+            );
+            //progreso de la barra de la oleada
+            int anchoRelleno = (int)(200 * _enemigos.ProgresoOleada);
+
+            Rectangle rellenoBarra = new Rectangle(300, 25, anchoRelleno, 12);
+
+            SpriteBatch.Draw(
+                _texturaBarra,
+                rellenoBarra,
+                Color.Gold
+            );
+            //dibujar enemigos
             if (mostrarEnemigo == true)
             {
                 _enemigos.DibujarErizos(SpriteBatch);

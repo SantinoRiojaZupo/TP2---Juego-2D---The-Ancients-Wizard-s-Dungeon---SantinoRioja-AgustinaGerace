@@ -19,6 +19,21 @@ namespace The_ancient_s_wizard_dungeon
 
         private int _erizosPendientes = 0;
         private int _ranasPendientes = 0;
+        private int _totalEnemigosOleada = 0;
+        private int _enemigosDerrotados = 0;
+
+        public float ProgresoOleada
+        {
+            get
+            {
+                if (_totalEnemigosOleada == 0)
+                {
+                    return 0f;
+                }
+
+                return (float)_enemigosDerrotados / _totalEnemigosOleada;
+            }
+        }
 
         private float _tiempoIntentoAparicion = 0f;
         private const float INTERVALO_APARICION = 2f;
@@ -185,8 +200,11 @@ namespace The_ancient_s_wizard_dungeon
         {
             Limpiar();
 
-            int cantidadErizos = numeroOleada + 3211;
-            int cantidadRanas = numeroOleada -1;
+            int cantidadErizos = numeroOleada + 1;
+            int cantidadRanas = numeroOleada;
+
+            _totalEnemigosOleada = cantidadErizos + cantidadRanas;
+            _enemigosDerrotados = 0;
 
             _erizosPendientes = cantidadErizos;
             _ranasPendientes = cantidadRanas;
@@ -229,6 +247,30 @@ namespace The_ancient_s_wizard_dungeon
                 }
             }
         }
+        
+        //actualiza el progreso de la barra de la oleada
+        public void ActualizarProgreso()
+{
+    int vivos = 0;
+
+    foreach (Erizo erizo in _erizos)
+    {
+        if (erizo.EstaVivo)
+            vivos++;
+    }
+
+    foreach (Rana rana in _ranas)
+    {
+        if (rana.EstaViva)
+            vivos++;
+    }
+
+    _enemigosDerrotados =
+        _totalEnemigosOleada -
+        vivos -
+        _erizosPendientes -
+        _ranasPendientes;
+}
 
         //intenta aparecer enemigos que no pudieron antes
         public void IntentarAparicionesPendientes(
@@ -322,7 +364,7 @@ namespace The_ancient_s_wizard_dungeon
             }
             foreach (Rana rana in _ranas)
             {
-                if (rana.EstaViva)
+                if (rana.EstaViva && !rana.Saltando)
                 {
                     cuerpos.Add(rana.Cuerpo);
                 }

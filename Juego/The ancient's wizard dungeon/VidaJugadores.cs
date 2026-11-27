@@ -13,8 +13,8 @@ public class VidaJugadores
     private TextureRegion medioCorazon;
     private TextureRegion corazonVacio; 
     
-   public int vidaActual = 6312;
-   public int vidasTotal = 6123;
+   public int vidaActual = 6;
+   public int vidasTotal = 6;
 
     public VidaJugadores(Texture2D textura)
     {
