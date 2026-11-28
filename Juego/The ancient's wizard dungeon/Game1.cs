@@ -435,6 +435,12 @@ public class Game1 : Core
                 break;
 
             case EstadoJuego.Jugando:
+                _jugador1.ActualizarInvulnerabilidad(gameTime);
+                _jugador2.ActualizarInvulnerabilidad(gameTime);
+
+                float velocidadH1 = _jugador1.invulnerable ? velocidad * 0.5f : velocidad;
+                float velocidadH2 = _jugador2.invulnerable ? velocidad * 0.5f : velocidad;
+
                 _jugador1.ActualizarAtaque(gameTime);
                 _jugador2.ActualizarAtaque(gameTime);
 
@@ -455,7 +461,7 @@ public class Game1 : Core
                 if (tecladoActual.IsKeyDown(Keys.Left))
                 {
                     direccionHeroe1 = new Vector2(-1, 0);
-                    movimientoH1.X -= velocidad;
+                    movimientoH1.X -= velocidadH1;
                     _estadoAnimacionHeroe1 = "Izquierda";
                     moviendoH1 = true;
 
@@ -463,7 +469,7 @@ public class Game1 : Core
                 else if (tecladoActual.IsKeyDown(Keys.Right))
                 {
                     direccionHeroe1 = new Vector2(1, 0);
-                    movimientoH1.X += velocidad;
+                    movimientoH1.X += velocidadH1;
                     _estadoAnimacionHeroe1 = "Derecha";
                     moviendoH1 = true;
 
@@ -471,7 +477,7 @@ public class Game1 : Core
                 if (tecladoActual.IsKeyDown(Keys.Down))
                 {
                     direccionHeroe1 = new Vector2(0, 1);
-                    movimientoH1.Y += velocidad;
+                    movimientoH1.Y += velocidadH1;
                     if (!moviendoH1) _estadoAnimacionHeroe1 = "Frente";
                     moviendoH1 = true;
 
@@ -479,7 +485,7 @@ public class Game1 : Core
                 else if (tecladoActual.IsKeyDown(Keys.Up))
                 {
                     direccionHeroe1 = new Vector2(0, -1);
-                    movimientoH1.Y -= velocidad;
+                    movimientoH1.Y -= velocidadH1;
                     if (!moviendoH1) _estadoAnimacionHeroe1 = "Atras";
                     moviendoH1 = true;
 
@@ -525,14 +531,14 @@ public class Game1 : Core
                 {
 
                     direccionHeroe2 = new Vector2(-1, 0);
-                    movimientoH2.X -= velocidad;
+                    movimientoH2.X -= velocidadH2;
                     _estadoAnimacionHeroe2 = "Izquierda";
                     moviendoH2 = true;
                 }
                 else if (tecladoActual.IsKeyDown(Keys.D))
                 {
                     direccionHeroe2 = new Vector2(1, 0);
-                    movimientoH2.X += velocidad;
+                    movimientoH2.X += velocidadH2;
                     _estadoAnimacionHeroe2 = "Derecha";
                     moviendoH2 = true;
                 }
@@ -540,14 +546,14 @@ public class Game1 : Core
                 if (tecladoActual.IsKeyDown(Keys.S))
                 {
                     direccionHeroe2 = new Vector2(0, 1);
-                    movimientoH2.Y += velocidad;
+                    movimientoH2.Y += velocidadH2;
                     if (!moviendoH2) _estadoAnimacionHeroe2 = "Frente";
                     moviendoH2 = true;
                 }
                 else if (tecladoActual.IsKeyDown(Keys.W))
                 {
                     direccionHeroe2 = new Vector2(0, -1);
-                    movimientoH2.Y -= velocidad;
+                    movimientoH2.Y -= velocidadH2;
                     if (!moviendoH2) _estadoAnimacionHeroe2 = "Atras";
                     moviendoH2 = true;
                 }
@@ -1057,33 +1063,37 @@ public class Game1 : Core
      _estadoActual == EstadoJuego.Jugando || _estadoActual == EstadoJuego.Pausado || (_estadoActual == EstadoJuego.Opciones && _estadoAnteriorOpciones == EstadoJuego.Pausado))
         {
             _tileMap.Draw(SpriteBatch);
-            if (_jugador1.estaVivo)
+            if (_jugador1.estaVivo && _jugador1.MostrarJugador)
             {
                 TextureRegion frameHeroe1 = _animacionesHeroe1[_estadoAnimacionHeroe1].CurrentFrame;
+
+                Color colorJugador = _jugador1.invulnerable ? Color.Red : Color.White;
 
                 frameHeroe1.Draw(
                     SpriteBatch,
                     new Vector2(_posicionHeroe1.X, _posicionHeroe1.Y),
-                    Color.White,
+                    colorJugador,
                     0f,
                     Vector2.Zero,
                     new Vector2(3f, 3f),
                     SpriteEffects.None,
                     0f);
             }
-            if (_numeroJugadores == 2 && _jugador2.estaVivo)
+            if (_numeroJugadores == 2 && _jugador2.estaVivo && _jugador2.MostrarJugador)
             {
-
                 TextureRegion frameHeroe2 = _animacionesHeroe2[_estadoAnimacionHeroe2].CurrentFrame;
+
+                Color colorJugador = _jugador2.invulnerable ? Color.Red : Color.White;
+
                 frameHeroe2.Draw(
-                   SpriteBatch,
-                   new Vector2(_posicionHeroe2.X, _posicionHeroe2.Y),
-                   Color.White,
-                   0f,
-                   Vector2.Zero,
-                   new Vector2(3f, 3f),
-                   SpriteEffects.None,
-                   0f);
+                    SpriteBatch,
+                    new Vector2(_posicionHeroe2.X, _posicionHeroe2.Y),
+                    colorJugador,
+                    0f,
+                    Vector2.Zero,
+                    new Vector2(3f, 3f),
+                    SpriteEffects.None,
+                    0f);
             }
             // Dibujar vidas del jugador 1
             _jugador1.DibujarVida(
@@ -1114,8 +1124,16 @@ public class Game1 : Core
                 Color.White
             );
 
+            // Borde de la barra
+            Rectangle bordeBarra = new Rectangle(298, 25, 204, 16);
+
+            SpriteBatch.Draw(
+                _texturaBarra,
+                bordeBarra,
+                Color.White
+            );
             // Barra de de la oleada
-            Rectangle fondoBarra = new Rectangle(300, 25, 200, 12);
+            Rectangle fondoBarra = new Rectangle(300, 27, 200, 12);
 
             SpriteBatch.Draw(
                 _texturaBarra,
@@ -1123,9 +1141,10 @@ public class Game1 : Core
                 Color.DarkGray
             );
             //progreso de la barra de la oleada
+
             int anchoRelleno = (int)(200 * _enemigos.ProgresoOleada);
 
-            Rectangle rellenoBarra = new Rectangle(300, 25, anchoRelleno, 12);
+            Rectangle rellenoBarra = new Rectangle(300, 27, anchoRelleno, 12);
 
             SpriteBatch.Draw(
                 _texturaBarra,

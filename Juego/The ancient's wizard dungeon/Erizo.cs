@@ -227,20 +227,14 @@ Cuerpo.Bounds.Height
             // Aplicamos daño una sola vez por contacto.
             if (chocoH1 && !_tocandoJugador1)
             {
-                jugador1._vidaJugadores.QuitarVida(1);
+                jugador1.RecibirDaño(1);
                 _tocandoJugador1 = true;
-
-                if (jugador1._vidaJugadores.SinVida)
-                    jugador1.muere();
             }
 
             if (chocoH2 && !_tocandoJugador2)
             {
-                jugador2._vidaJugadores.QuitarVida(1);
+                jugador2.RecibirDaño(1);
                 _tocandoJugador2 = true;
-
-                if (jugador2._vidaJugadores.SinVida)
-                    jugador2.muere();
             }
 
             // Si chocamos contra un jugador, retrocedemos y hacemos una pausa.

@@ -351,7 +351,7 @@ namespace The_ancient_s_wizard_dungeon
             if (!limitesMapa.Contains(posiblesBounds))
                 return false;
 
-           
+
             foreach (Erizo erizo in erizos)
             {
                 if (erizo.EstaVivo &&
@@ -380,7 +380,7 @@ namespace The_ancient_s_wizard_dungeon
         {
             if (ComprobarContacto(jugador))
             {
-                jugador._vidaJugadores.QuitarVida(2);
+                jugador.RecibirDaño(2);
             }
         }
         private void Reubicar(
